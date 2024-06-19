@@ -48,9 +48,6 @@ Engine Assembly is a Mixed Reality (MR) based simulation specifically designed f
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 - Special thanks to KrithikRaghav V for his significant contributions to the development of this simulation.
 - Thanks to the developers and communities of the VR and hand tracking technologies used.
